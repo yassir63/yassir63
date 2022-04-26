@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **anything Developpement related**
 
-- 👨‍💻 All of my projects are available at [portfolio-yassir.herokuapp.com](portfolio-yassir.herokuapp.com)
+- 👨‍💻 All of my projects are available at [portfolio-yassir.herokuapp.com](portfolio-yassir.herokuapp.com) ( not yet completed ! )
 
 - 📫 How to reach me **amamiyassir@gmail.com**
 
