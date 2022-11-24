@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassir63&label=Profile%20views&color=0e75b6&style=flat" alt="yassir63" /> </p>
 
-- 🔭 I’m currently working on **Student Presence Management System and a A-Star Maze Solving Algorithm**
-
 - 🌱 I’m currently learning **everything that I come across !**
 
 - 👯 I’m looking to collaborate on **anything Developpement related**
