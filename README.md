@@ -8,8 +8,6 @@
 
 - 👯 I’m looking to collaborate on **anything Developpement related**
 
-- 👨‍💻 All of my projects are available at http://portfolio-yassir.herokuapp.com/ ( not yet completed ! )
-
 - 📫 How to reach me **amamiyassir@gmail.com**
 
 - ⚡ Fun fact **I have started coding since I was 10 years old...**
