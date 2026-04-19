@@ -10,9 +10,9 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Computer Science student  
+- 🎓 Computer Science Phd and Engineer   
 - 💻 Passionate about building and learning  
-- 🚀 Interested in **software, mobile, and backend development**  
+- 🚀 Interested in **software, systems and cloud stuff !**  
 - 🤝 Open to collaboration on interesting projects  
 - 📫 **amamiyassir@gmail.com**
 
